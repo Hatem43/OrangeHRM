@@ -18,7 +18,7 @@ public class Main {
         System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
         driver = new ChromeDriver();
     }
-/*
+
     @Test
     public void loginwithadmin() {
         driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
@@ -180,5 +180,5 @@ public class Main {
         System.out.println(alertmessage);
         a.dismiss();
     }
-    */
+    
 }
