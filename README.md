@@ -1,1 +1,1 @@
-Automation testing using Selenium for OrangeHRM
+Automation testing for OrangeHRM using Selenium
